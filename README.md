@@ -1,3 +1,3 @@
 # talkclone_b
 
-minari
+minari ok
